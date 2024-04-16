@@ -1,0 +1,2 @@
+** This page will be used to plan out all the interests I intend to talk about on this HTML project**
+I'm still debating on whether or not I should build on this with every passing unit in code academy. (Once i learn CSS, add some of that, once i learn JavaScript, add some of that, and so on and so forth)
