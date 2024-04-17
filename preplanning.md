@@ -22,3 +22,6 @@ I want to create a table that will tier rank all my interests from most importan
 Explanation for Rankings: 
 Right at the bottom of the list I want to explain why certain things are ranked higher than others and site reasons Odysseas gave as to why prioritizing hobbies instead of trying to juggle them all is so important.
 
+Spitballing ideas:
+* Have some type of interactivity within the site:
+- Have a header where each interest is it's own tag (think: home | shop | events | Info | Scheduling | ETC)
