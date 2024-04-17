@@ -17,4 +17,5 @@ I want to create a table that will tier rank all my interests from most importan
 
 * Will for sure be in classic S-F tier list format
 
-Explanation for Rankings: Right at the bottom of the list I 
+Explanation for Rankings: 
+Right at the bottom of the list I want to explain why certain things are ranked higher than others and site reasons Odysseas gave as to why prioritizing hobbies instead of trying to juggle them all is so important.
