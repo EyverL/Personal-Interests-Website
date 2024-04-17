@@ -6,3 +6,6 @@ I went ahead and wrote an introduction paragraph discussing why I'm even startin
 
 Contact information:
 I think that the contact information will expand to instagram (watch for the hate comments i'll be getting lol) and other social medias but for now i'll keep it professional and use my software engineering gmail account, github, and linkedin.
+
+List of Interests:
+After my introduction paragraphs i'd like to include an unorganized list of the hobbies i'm most interested in.
