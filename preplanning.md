@@ -25,3 +25,5 @@ Right at the bottom of the list I want to explain why certain things are ranked 
 Spitballing ideas:
 * Have some type of interactivity within the site:
 - Have a header where each interest is it's own tag (think: home | shop | events | Info | Scheduling | ETC)
+
+* Maybe a form where people can also tell you what their personal hobbies are (make sure its filters for dumb responses)
