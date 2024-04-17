@@ -27,3 +27,8 @@ Spitballing ideas:
 - Have a header where each interest is it's own tag (think: home | shop | events | Info | Scheduling | ETC)
 
 * Maybe a form where people can also tell you what their personal hobbies are (make sure its filters for dumb responses)
+
+* Recommendation section for things pertaining to every interest you end up writing about:
+- Reading (they can recommend books)
+- Cars (they can recommend you their favorite models)
+- ETC
