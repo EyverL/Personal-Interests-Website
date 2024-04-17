@@ -12,3 +12,5 @@ After my introduction paragraphs i'd like to include an unorganized list of the 
 
 Table:
 I want to create a table that will tier rank all my interests from most important to least important. I plan to do this by considering what makes the most sense to prioritze in my daily life at the moment. Whether that be because I don't have money or access to things that would allow me to explore those hobbies, I should take all of it into consideration when creating the table and ranking them.
+
+* Will for sure be in classic S-F tier list format
