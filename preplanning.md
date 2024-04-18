@@ -38,3 +38,14 @@ Spitballing ideas:
 * Give a top 10 list for things like your favorite books, movies, albums and your must have trips, cars, styles to learn in mma, and just discuss your goals
 
 * Talk about the goals you have in every interest you decide to right about
+
+Car Page for Website:
+Music Page for Website:
+Mixed Martial Arts Page for Website:
+Reading Page for Website:
+Traveling Page for Website:
+Movies Page for Website:
+Bodybuilding Page for Website:
+Fashion Page for Website:
+Coding Page for Website:
+
