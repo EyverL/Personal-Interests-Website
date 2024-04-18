@@ -34,3 +34,5 @@ Spitballing ideas:
 - ETC
 
 * Write Reviews on things like movies, books, albums, etc
+
+* Give a top 10 list for things like your favorite books, movies, albums and your must have trips, cars, styles to learn in mma, and just discuss your goals
