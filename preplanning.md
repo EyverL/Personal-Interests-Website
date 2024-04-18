@@ -32,3 +32,5 @@ Spitballing ideas:
 - Reading (they can recommend books)
 - Cars (they can recommend you their favorite models)
 - ETC
+
+* Write Reviews on things like movies, books, albums, etc
